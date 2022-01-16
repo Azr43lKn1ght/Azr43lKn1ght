@@ -1,0 +1,1 @@
+when you don't know the password you either try all the know passwords or brute force it.it would easily give you the flag.

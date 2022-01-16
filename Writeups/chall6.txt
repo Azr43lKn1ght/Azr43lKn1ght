@@ -1,0 +1,1 @@
+There is something hidden with some password you either get it by analysing or just try password cracking to extract data.
