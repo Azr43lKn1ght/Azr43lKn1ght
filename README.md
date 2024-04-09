@@ -10,7 +10,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=4500&size=30&duration=4000&pause=1000&color=a33d28&random=false&width=435&lines=Azr43lKn1ght%40github%3A~%24+🦇" alt="Typing SVG" /></a>
 
 # 💫 About Me:
-🚩 Team Lead at bi0s<br>🔎Digital Forensics and Incident Response<br>⚙️Malware Analysis and Threat Hunting<br>🦠Malware Development and experimenting around various Red Teaming Techniques in Windows<br>🏫3rd Year Bachelors of Technology in CSE at Amrita Vishwa Vidyapeetham<br><br>
+🚩 Team Lead at <a href="https://bi0s.in"><img height=18 src="https://github.com/retr0ds/retr0ds/assets/75214461/be77066f-9f8a-4f5e-86a1-717652515291"></a><br>🔎Digital Forensics and Incident Response<br>⚙️Malware Analysis and Threat Hunting<img height=30 src="https://github.com/retr0ds/retr0ds/assets/75214461/e3553a8a-cad3-4417-a090-4b232fed64d5"><br>🦠Malware Development and experimenting around various Red Teaming Techniques in Windows<br>🏫3rd Year Bachelors of Technology in CSE at Amrita Vishwa Vidyapeetham<br><br>
 
 <!--
 ## 🌐 Socials:
